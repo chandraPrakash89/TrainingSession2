@@ -46,14 +46,6 @@
         background-color: #8000808a;
         border-radius: 10px;
       }
-      
-      body, html {
-        height: 100%;
-        margin: 0;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-    }
     @media (min-width: 768px) {
         .login-right-div {
             background-color: black;
