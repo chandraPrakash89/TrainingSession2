@@ -71,4 +71,7 @@
     padding: 8px 0px 8px 18px;
     margin-bottom: 14px;
 }
-  
+
+table, th, tr, td {
+  border:1px solid black;
+}

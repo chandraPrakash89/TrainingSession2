@@ -1,4 +1,8 @@
 
+/**
+ * Get user details by id
+ * On submit form show user details in console log
+ */
 document.getElementById('regForm').addEventListener('submit',
     function (event) {
         event.preventDefault();
